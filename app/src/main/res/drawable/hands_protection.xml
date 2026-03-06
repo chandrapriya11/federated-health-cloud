@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp"
+    android:height="250dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Left Hand -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,380 C80,300 150,250 200,260 C230,265 240,300 230,330 C220,360 200,400 160,420 Z" />
+
+    <!-- Right Hand -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M392,380 C432,300 362,250 312,260 C282,265 272,300 282,330 C292,360 312,400 352,420 Z" />
+
+    <!-- Protection Shield Center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M256,180 L320,210 L320,270 C320,330 256,360 256,360 C256,360 192,330 192,270 L192,210 Z" />
+
+</vector>

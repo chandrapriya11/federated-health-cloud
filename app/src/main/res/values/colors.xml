@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Primary Medical Theme -->
+    <color name="primary">#0F9D9A</color>
+    <color name="primaryDark">#0C7C79</color>
+    <color name="accent">#2979FF</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#F5F7FA</color>
+    <color name="cardBackground">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="success">#2E7D32</color>
+    <color name="warning">#FB8C00</color>
+    <color name="danger">#E53935</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#1A1A1A</color>
+    <color name="textSecondary">#6B7280</color>
+
+</resources>
